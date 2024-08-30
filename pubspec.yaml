@@ -35,6 +35,12 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
+  flutter_riverpod:
+  freezed_annotation:
+  json_annotation:
+  riverpod_annotation:
+  window_manager:
+  responsive_framework:
 
 dev_dependencies:
   flutter_test:
@@ -46,6 +52,12 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^3.0.0
+  build_runner:
+  riverpod_generator:
+  custom_lint:
+  riverpod_lint:
+  freezed:
+  json_serializable:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
